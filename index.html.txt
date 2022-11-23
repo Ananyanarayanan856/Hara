@@ -1,6 +1,0 @@
-<html>
-<head>Hara</head>
-<body>
-<h1>My first webpage</h1>
-</body>
-</html>
